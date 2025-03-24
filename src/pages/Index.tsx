@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { ArrowRight, Sparkles, BookOpen, Brain, Users } from 'lucide-react';
+import { ArrowRight, Sparkles, BookOpen, Brain, Users, BarChart2 } from 'lucide-react';
 
 const Index = () => {
   return (
